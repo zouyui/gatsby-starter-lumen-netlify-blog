@@ -12,24 +12,3 @@ socialImage: "/media/image-4.jpg"
 
 *We specialize in boosting your storytelling to the next whole level and bring your idea to life.*
 
-## 出品
-
-让每个人都能制作出  
-精彩有创意的数字作品 https://www.wonderidea.com/.
-
-+ **Hot** [秀展网](https://www.xiuzhan365.com/).
-+ [布丁演示](https://buding.show/?from=wi).
-+ [魅演3D](https://www.focusky.com.cn/meiyan/).
-+ [剪辑大师](https://www.animiz.cn/videoclipmaster/). Donec **consectetuer** ligula vulputate sem tristique cursus.
-
-### Ourboard
-+ [Mango Animate](https://mangoanimate.com/)
-Make animated videos, whiteboard animations, character animations, business videos in a snap by dragging and dropping the elements. Tremendous pro and cool templates!
-+ [Focusky](http://focusky.com/)
-Super easy presentation software with hosting cloud service.  Design for emphasizing your ideas and points.
-+ [Fliphtml5](https://fliphtml5.com/)
-All-in-one content distribution platform. One click to publish your magazines, brochures and other PDF contents. Trusted by millions of brands.
-+ [Flipbuilder](https://www.flipbuilder.com/)
-One of the best flipbook maker programs since 2007. Multilingual and super user-friendly interface makes digital publishing easy for everyone.
-+ [Animiz](http://animiz.com/)
-Cloud-based animation software with  thousands of templates.
