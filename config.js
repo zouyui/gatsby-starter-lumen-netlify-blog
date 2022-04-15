@@ -1,6 +1,7 @@
 'use strict';
 
 module.exports = {
+  plugins: [`gatsby-plugin-mdx`,],
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Blog by Joey',
