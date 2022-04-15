@@ -10,7 +10,7 @@ socialImage: "/media/image-2.jpg"
 
 *As you know the Liyu in ancient China，my name is Joey.And Joey also means ~ Melody，of course I can be your melody. I’m so sophisticated to be a MC in campus or other media circle，and I just dedicated to sharing my happiness with all the creatures who do have interesting mind，including -- You. Give me a chance，I’ll show you a new world ：）*
 
-## 出品
+## 公司出品
 
 让每个人都能制作出  
 精彩有创意的数字作品 https://www.wonderidea.com/.
