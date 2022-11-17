@@ -5,7 +5,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Blog by Joey',
-  subtitle: '领域: 架构师, 动画软件, 声音音效, 3D技术, 制造业.',
+  subtitle: '兴趣领域: 架构师, DevOps, 动画软件, 声音音效, 3D技术.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -28,7 +28,7 @@ module.exports = {
   author: {
     name: 'Joey',
     photo: '/photo.jpg',
-    bio: '领域: 架构师, 动画软件, 声音音效, 3D技术, 制造业.',
+    bio: '兴趣领域: 架构师, DevOps, 动画软件, 声音音效, 3D技术.',
     contacts: {
       email: '',
       facebook: '#',
